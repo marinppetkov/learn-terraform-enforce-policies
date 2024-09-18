@@ -6,7 +6,7 @@ on HashiCorp Learn. It contains an example Sentinel policy and policy set to
 enforce minimum Terraform versions for Terraform runs.
 
 
-Enforcement levels:
+[Enforcement levels](https://developer.hashicorp.com/sentinel/docs/concepts/enforcement-levels):
 * advisory
 * soft-mandatory
 * hard-mandatory
